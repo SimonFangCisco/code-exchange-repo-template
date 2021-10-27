@@ -23,4 +23,4 @@ Provide links to related Learning Labs or modules on DevNet:
 Provide links to related solutions on DevNet Ecosystem Exchange:
 
 * [Splash MV Retail Fashion Tags](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
-* [Splash MV ALPR Alerts](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)d
+* [Splash MV ALPR Alerts](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
