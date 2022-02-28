@@ -12,20 +12,25 @@ In summary, the bot has the following functionalities:
 * Generate snapshots from the Meraki MV cameras
 * Query the latest metrics from the beep base, e.g. temperature, humidity, weight, etc.
 
-![actions](IMAGES/actions.png)
+![actions](actions.png)
 
 ## White Paper
 Provide links to related white papers:
-[CHANGE LINK AND TEXT TO REAL WHITE PAPER](http://www.url_of_your_whitepaper.com/)
+* [Cloud-Managed Smart Cameras: Meraki MV](https://meraki.cisco.com/product-collateral/mv-architecture-overview/?file)
 
 ## Related Sandbox
 Provide a link to a related DevNet Sandbox:
-[CHANGE EXAMPLE SANDBOX Multi-IOS Cisco Test Network Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/6b023525-4e7f-4755-81ae-05ac500d464a?diagramType=Topology)
+
+* [Meraki Always On](https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology)
 
 ## Links to DevNet Learning Labs
 Provide links to related Learning Labs or modules on DevNet:
-[CHANGE EXAMPLE Introduction to Model Driven Programmability(ex: NETCONF/YANG)](https://developer.cisco.com/learning/modules/intro-device-level-interfaces)
+
+* [Meraki MV Sense](https://developer.cisco.com/learning/lab/meraki-08-mv-sense/step/1)
 
 ## Solutions on Ecosystem Exchange
 Provide links to related solutions on DevNet Ecosystem Exchange:
-[CHANGE EXAMPLE Physical Density Controls](https://developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
+
+* [Splash MV Retail Fashion Tags](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
+* [Splash MV ALPR Alerts](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
+
