@@ -14,7 +14,7 @@ In summary, the user interface has the following functionalities:
 * Generate a summary of the results of the rebooting process
 * Send an additional summary of the results to Webex
 
-![interface](IMAGES/Meraki_Device_Bulk_Reboot_Screenshot.png)
+![interface](Meraki_Device_Bulk_Reboot_Screenshot.png)
 
 ## White Paper
 Provide links to related white papers:
