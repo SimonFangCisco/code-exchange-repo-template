@@ -7,43 +7,47 @@ By using the Webex and AWS API, we have created a Flask application that integra
 
 0. First, we have to login and obtain our Webex access token:
 
-![IMAGES/0_login.png](migration_0_login.png)
+![IMAGES/0_login.png](IMAGES/migration_0_login.png)
 
 1. After having logged in and authorized the application, we should select the `siteUrl`, the `period` and the `hostEmail` that we are interested in:
 
-![IMAGES/1_select_period.png](migration_1_select_period.png)
+![IMAGES/1_select_period.png](IMAGES/migration_1_select_period.png)
 
 2. Then, we will obtain a table of all the recordings that are available and it will be immediately indicated if the Webex recording has been migrated to the cloud or not: 
 
-![IMAGES/2_select_recording.png](migration_2_select_recording.png)
+![IMAGES/2_select_recording.png](IMAGES/migration_2_select_recording.png)
 
 3. When you have selected the recordings that you would like to migrate, you can press the button `Migrate` to start the migration process and afterwards you will get a summary of the recordings that have migrated:
 
-![IMAGES/3_migrate.png](migration_3_migrate.png)
+![IMAGES/3_migrate.png](IMAGES/migration_3_migrate.png)
 
 4. The process above is mainly manual, but in some use cases, we would like to automate the whole flow. In that case, we can create a scheduler that will migrate all the recordings in a certain period based on a daily, weekly, biweekly or monthly frequency:
 
-![IMAGES/4_summary.png](migration_4_scheduler.png)
+![IMAGES/4_summary.png](IMAGES/migration_4_scheduler.png)
 
 Please note: the scheduler's back-end has not been fully implemented. The front-end serves as a mock-up and inspiration on how to do an automated flow of this use case. 
 
 ## White Paper
 Provide links to related white papers:
-* [Cloud-Managed Smart Cameras: Meraki MV](https://meraki.cisco.com/product-collateral/mv-architecture-overview/?file)
+* [5 reasons more companies choose Webex meetings](https://www.cisco.com/c/dam/m/digital/elq-cmcglobal/OCA/Assets/Collaboration/5-reasons-more-companies-choose-webex.pdf)
+* [Cisco Webex Meetings Security White Paper](https://www.cisco.com/c/en/us/products/collateral/conferencing/webex-meeting-center/white-paper-c11-737588.html)
 
 ## Related Sandbox
 Provide a link to a related DevNet Sandbox:
 
-* [Meraki Always On](https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology)
+* [Cisco Webex Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/cf7eca30-b4e8-44be-a529-e25a1c078ab3?diagramType=Topology)
 
 ## Links to DevNet Learning Labs
 Provide links to related Learning Labs or modules on DevNet:
 
-* [Meraki MV Sense](https://developer.cisco.com/learning/lab/meraki-08-mv-sense/step/1)
+* [Webex Meetings APIs](https://developer.cisco.com/learning/labs/collab-webex/)
+* [Configure a Webex integration](https://developer.cisco.com/learning/labs/collab-business-conf-webex-integration-itp/)
+* [Calling Webex REST APIs from Python](https://developer.cisco.com/learning/labs/webex-messaging-python/)
+* [Using Postman with the Webex REST API](https://developer.cisco.com/learning/labs/webex-messaging-postman/)
+* [Generating Pythong Webex API code using Postman](https://developer.cisco.com/learning/labs/collab-webex-interfacing-with-rest/)
 
 ## Solutions on Ecosystem Exchange
 Provide links to related solutions on DevNet Ecosystem Exchange:
 
-* [Splash MV Retail Fashion Tags](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
-* [Splash MV ALPR Alerts](https://developer.cisco.com/ecosystem/meraki/apps/60f02b2ed805d2200f31985f/)
+* [Amazon Web Services](https://developer.cisco.com/ecosystem/security/partners/security_amazonwebservices/)
 
