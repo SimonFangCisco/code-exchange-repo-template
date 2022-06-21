@@ -1,4 +1,4 @@
-# Template Network Unbinding App
+# Meraki Template Network Unbinding App
 Unbinding the network from a template for a large number of networks can take a long time and is error-prone. This prototype shows you how to programmatically unbind a large number of networks from a template. You can accomplish it in three steps: 
 
 1. Select the organization
